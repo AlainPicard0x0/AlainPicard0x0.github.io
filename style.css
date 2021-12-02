@@ -93,4 +93,12 @@ section {
     background: #235bf6;
 }
 
+.social-media-icons {
+    margin-top: 50px;
+}
 
+.social-media-icons a {
+    color: #fff;
+    font-size: 25px;
+    margin-right: 30px;
+}
