@@ -22,3 +22,18 @@ section {
     background-position: center;
     background-attachment: fixed;
 }
+
+.home-section .content {
+    max-width: 800px;
+}
+
+.home-section .content h2 {
+    color: #fff;
+    font-size: 2em;
+    font-weight: 500;
+}
+
+.home-section .content h2 span {
+    font-size: 2.8em;
+    font-weight: 600;
+}
