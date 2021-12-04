@@ -294,6 +294,11 @@ body {
     border-radius: 2px;
 }
 
+.skills-section .content .col-right .bar-chart .react:before {
+    width: 90%;
+    background: #04d0eb;
+}
+
 .skills-section .content .col-right .bar-chart .html:before {
     width: 95%;
     background: #eb3a04;
