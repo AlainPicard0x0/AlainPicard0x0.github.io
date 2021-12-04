@@ -562,5 +562,11 @@ body {
     transition: all 0.3s ease;
 }
 
+.scroll-to-top-btn.active {
+    right: 20px;
+    opacity: 1;
+    pointer-events: auto;
+}
+
 
 
