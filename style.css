@@ -451,6 +451,11 @@ body {
     transform: translateY(-10px);
 }
 
+.contact-section .content .row .card .contact-icon img {
+    width: 150px;
+    color: #087eec;
+}
+
 .contact-section .content .row .card .info {
     text-align: center;
 }
@@ -465,6 +470,11 @@ body {
 .contact-section .content .row .card .info span {
     color: #667;
     font-weight: 500;
+}
+
+.contact-section .content .row .card .info span a {
+    text-decoration: none;
+    color: #667;
 }
 
 .contact-form {
