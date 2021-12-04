@@ -626,8 +626,8 @@ body {
 
     .menu-btn {
         position: absolute;
-        background: url(images/mobile-menu-icon.png) no-repeat;
-        background-size: 30px;
+        background: url(images/hamburger6.svg) no-repeat;
+        background-size: 42px;
         background-position: center;
         width: 40px;
         height: 40px;
