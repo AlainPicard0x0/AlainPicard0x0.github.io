@@ -589,12 +589,12 @@ body {
         padding: 10px 20px;
     }
 
-    header .navigation {
+    header .navigation-section {
         position: relative;
         display: none;
     }
 
-    header .navigation.active {
+    header .navigation-section.active {
         z-index: 88;
         position: fixed;
         background: #fff;
@@ -610,7 +610,7 @@ body {
         transition: 0.3s ease;
     }
 
-    header .navigation a {
+    header .navigation-section a {
         color: #000;
         font-size: 1.2em;
         margin: 10px;
@@ -618,7 +618,7 @@ body {
         border-radius: 20px;
     }
 
-    header .navigation a:hover {
+    header .navigation-section a:hover {
         background: #3a6cf4;
         color: #fff;
         transition: 0.3s ease;
