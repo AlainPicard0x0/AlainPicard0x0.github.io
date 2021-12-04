@@ -44,8 +44,8 @@ section {
     overflow: hidden;
 }
 
-.animated-h3 h3 {
-    color: #4e9eff;
+.animated-h3 h3 {    
+    color: #087eec;
     font-size: 3em;
     font-weight: 700;
     line-height: 70px;
@@ -76,7 +76,7 @@ section {
 
 .btn {
     color: #fff;
-    background: #3a6cf4;
+    background-image: linear-gradient(#53b6f0, #087eec);
     font-size: 1em;
     font-weight: 600;
     display: inline-block;
@@ -90,7 +90,7 @@ section {
 }
 
 .btn:hover {
-    background: #235bf6;
+    background: #087eec;
 }
 
 .social-media-icons {
@@ -118,7 +118,7 @@ header {
 }
 
 header.sticky {
-    background: #3a6cf4;
+    background: #087eec;
     padding: 10px 200px;
 }
 
@@ -143,7 +143,7 @@ header .navigation-section a {
 }
 
 header .navigation-section a:hover {
-    color: #3a6cf4;
+    color: #087eec;
 }
 
 header.sticky .navigation-section a:hover {
@@ -163,7 +163,7 @@ body {
 }
 .title-section {
     position: relative;
-    color: #3a6cf4;
+    color: #087eec;    
     font-size: 2.2em;
     font-weight: 800;
     margin-bottom: 60px;
@@ -176,7 +176,7 @@ body {
     left: 50%;
     width: 140px;
     height: 4px;
-    background: #3a6cf4;
+    background: #087eec;
     transform: translateX(-50%);
 }
 
@@ -188,7 +188,7 @@ body {
     width: 15px;
     height: 15px;
     border-radius: 50%;
-    background: #3a6cf4;
+    background: #087eec;
     transform: translateX(-50%);
 }
 
@@ -295,32 +295,32 @@ body {
 
 .skills-section .content .col-right .bar-chart .html:before {
     width: 95%;
-    background: #e45126;
+    background: #eb3a04;
 }
 
 .skills-section .content .col-right .bar-chart .css:before {
-    width: 95%;
-    background: #0c73b8;
+    width: 90%;
+    background: #098de6;
 }
 
 .skills-section .content .col-right .bar-chart .javascript:before {
     width: 95%;
-    background: #d6d31b;
+    background: #e2d302;
 }
 
 .skills-section .content .col-right .bar-chart .java:before {
     width: 95%;
-    background: #e45126;
+    background: #ec1111;
 }
 
 .skills-section .content .col-right .bar-chart .spring-boot:before {
-    width: 95%;
-    background: #d6d31b;
+    width: 90%;
+    background: #43a026;
 }
 
 .skills-section .content .col-right .bar-chart .sql:before {
-    width: 95%;
-    background: #e45126;
+    width: 90%;
+    background: #098de6;
 }
 
 .services-section .content {
@@ -349,7 +349,7 @@ body {
 }
 
 .services-section .content .card .service-icon {
-    color: #3a6cf4;
+    color: #087eec;
     font-size: 8em;
     text-align: center;
     transition: transform 0.5s ease;
@@ -364,7 +364,7 @@ body {
 }
 
 .services-section .content .card .info h3 {
-    color: #3a6cf4;
+    color: #087eec;
     font-size: 1.2em;
     font-weight: 700;
     margin: 10px;
@@ -440,7 +440,7 @@ body {
 }
 
 .contact-section .content .row .card .contact-icon {
-    color: #3a6cf4;
+    color: #087eec;
     font-size: 4em;
     text-align: center;
     transition: transform 0.5s ease;
@@ -504,7 +504,7 @@ body {
 
 .contact-form .input-group .contact-form-btn {
     color: #fff;
-    background: #3a6cf4;
+    background-image: linear-gradient(#53b6f0, #087eec);
     display: inline-block;
     font-size: 1.1em;
     font-weight: 500;
@@ -517,7 +517,7 @@ body {
 }
 
 .contact-form .input-group .contact-form-btn:hover {
-    background: #235bf6;
+    background: #087eec;
 }
 
 .footer {
@@ -538,7 +538,7 @@ body {
 }
 
 .footer p a {
-    color: #3a6cf4;
+    color: #087eec;
     font-weight: 600;
     text-decoration: none;
 }
@@ -546,7 +546,7 @@ body {
 .scroll-to-top-btn {
     z-index: 99;
     position: fixed;
-    background: #3a6cf4;
+    background: linear-gradient(#53b6f0, #087eec);
     color: #fff;
     width: 45px;
     height: 45px;
@@ -619,7 +619,7 @@ body {
     }
 
     header .navigation-section a:hover {
-        background: #3a6cf4;
+        background: #087eec;
         color: #fff;
         transition: 0.3s ease;
     }
@@ -696,7 +696,7 @@ body {
     .scroll-to-top-btn {
         z-index: 99;
         position: fixed;
-        background: #3a6cf4;
+        background: #087eec;
         color: #fff;
         width: 45px;
         height: 45px;
