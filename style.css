@@ -255,6 +255,11 @@ body {
     width: 46%;
 }
 
+.skills-section-span a {
+    font-weight: 800;
+    color: #fff;
+}
+
 .skills-section .content .col-right {
     position: relative;
     width: 46%;
