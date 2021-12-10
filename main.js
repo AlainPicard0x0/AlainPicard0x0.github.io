@@ -29,9 +29,7 @@ scrollBtn.addEventListener("click", () => {
     document.documentElement.scrollTop = 0;
 })
 
-window.addEventListener("scroll", revealContent);
-
-function revealContent() {
+window.addEventListener("scroll", () => {
     const reveal = document.querySelectorAll(".reveal");
     for(let i = 0; i < reveal.length; i++) {
         let windowHeight = window.innerHeight;
@@ -44,4 +42,4 @@ function revealContent() {
             reveal[i].classList.remove("active");
         }
     }
-}
+});
